@@ -4,7 +4,7 @@ Modify this file to your hearts content and make your website look awesome!*/
 
 
 body{
-	background-color: #ebebeb;
+	background-color: #91bcc6;
 	padding-top: 80px;
 }
 
@@ -78,9 +78,23 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	h3{
-		text-transform: uppercase;
-		color: #a49727;
+		color: #ffffff;
 		letter-spacing: -0.5px;
+	}
+	h4{
+		color: #d6f2f9;
+		font-weight: bold;
+	}
+	h5 {
+		color: #494949;
+		line-height: 30px;
+		margin-bottom: 25px;
+		font-weight: bold;
+	}
+	h6{
+		font-size: 96px;
+		color: #ffffff;
+	
 	}
 
 p, li, span, a {
